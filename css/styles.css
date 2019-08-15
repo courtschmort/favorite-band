@@ -1,0 +1,12 @@
+.sidebar {
+  float: right;
+  width: 25%;
+  margin: 12px;
+  padding: 12px;
+  border: 2px solid pink;
+}
+
+.content {
+  float: left;
+  width: 75%;
+}
